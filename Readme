@@ -1,0 +1,13 @@
+echo "# Brawl-Stars" >> README.md 
+
+git init 
+
+git README.md ekle 
+
+git commit -m "ilk taahhüt" 
+
+git şubesi -M ana 
+
+git uzaktan Origin ekle https://github.com/Phonefire/Brawl-Stars. git
+
+ git push -u ana kaynak
